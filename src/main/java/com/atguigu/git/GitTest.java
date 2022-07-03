@@ -1,0 +1,15 @@
+package com.atguigu.git;
+
+/**
+ * com.atguigu.git
+ *
+ * @author syf
+ * @create 2022-07-03-16:13
+ * @Description git-test
+ */
+
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
